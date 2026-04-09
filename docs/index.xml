@@ -10,10 +10,10 @@
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog de Andres, hecho en Quarto.</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Fri, 03 Apr 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 05:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
+  <title>Prueba de publicación</title>
+  <dc:creator>Andrés Mauricio Amaya-Hernandez</dc:creator>
   <link>https://your-website-url.example.com/posts/post-with-code/</link>
   <description><![CDATA[ 
 
@@ -21,7 +21,7 @@
 
 
 
-<p>This is a post with executable code.</p>
+<p>Esta es una prueba de publicación.</p>
 
 
 
@@ -30,7 +30,7 @@
   <category>code</category>
   <category>analysis</category>
   <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
-  <pubDate>Fri, 03 Apr 2026 05:00:00 GMT</pubDate>
+  <pubDate>Thu, 09 Apr 2026 05:00:00 GMT</pubDate>
   <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>

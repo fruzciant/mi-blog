@@ -1,9 +1,9 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2026-04-03"
+title: "Prueba de publicación"
+author: "Andrés Mauricio Amaya-Hernandez"
+date: "2026-04-09"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+Esta es una prueba de publicación.
