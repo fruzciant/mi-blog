@@ -1,0 +1,19 @@
+---
+title: "Andres Mauricio Amaya-Hernandez"
+image: cortada.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter-x
+      text: Twitter
+      href: https://x.com/andr3s4maya
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/andr3s4maya/
+    - icon: github
+      text: Github
+      href: https://github.com/fruzciant
+
+---
+
+Primero, Dios. Luego, estudiante de Ingeniería Mecatrónica, amante de las ciencias y tecnologías, especialmente disruptivas, blog de opiniones, experiencias personales y algún que otro artículo sobre mis trabajos de clases. :p
