@@ -9,7 +9,7 @@
 <link>https://your-website-url.example.com/</link>
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog de Andres, hecho en Quarto.</description>
-<generator>quarto-1.9.37</generator>
+<generator>quarto-1.9.36</generator>
 <lastBuildDate>Thu, 09 Apr 2026 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Prueba de publicación</title>
