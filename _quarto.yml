@@ -4,7 +4,7 @@ project:
 
 website:
   description: "Blog de Andres, hecho en Quarto."
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  site-url: https://fruzciant.github.io/mi-blog/ 
   title: "Blog de Andres"
   navbar:
     right:
@@ -13,12 +13,28 @@ website:
         href: https://github.com/fruzciant
       - icon: twitter-x
         href: https://x.com/andr3s4maya
+
 format:
   html:
     theme:
       - cosmo
       - brand
     css: styles.css
-
-
-
+    other-links:
+      - text: Descargar PDF
+        icon: file-pdf
+        href: index.pdf
+  pdf:
+    documentclass: article
+    papersize: letter
+    toc: false
+    colorlinks: true
+    geometry:
+      - top=2.5cm
+      - bottom=2.5cm
+      - left=2.5cm
+      - right=2.5cm
+    include-in-header:
+      text: |
+        \usepackage{xcolor}
+        \hypersetup{linkcolor=blue, urlcolor=blue}
