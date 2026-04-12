@@ -1,14 +1,18 @@
 {
   "index.qmd": {
-    "index.html": "74c68608"
+    "index.html": "74c68608",
+    "index.tex": "302793a7"
   },
   "posts/welcome/index.qmd": {
-    "index.html": "d5004cbb"
+    "index.html": "d5004cbb",
+    "index.tex": "4e054f2b"
   },
   "posts/post-with-code/index.qmd": {
-    "index.html": "b18f6792"
+    "index.html": "b18f6792",
+    "index.tex": "6c2df0dd"
   },
   "about.qmd": {
-    "about.html": "e5b37ee2"
+    "about.html": "e5b37ee2",
+    "about.tex": "742f02ce"
   }
 }
