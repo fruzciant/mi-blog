@@ -1,0 +1,95 @@
+# License
+
+This project uses a dual-license model. Different parts of this repository
+are covered by different licenses, as described below.
+
+---
+
+## Source Code — MIT License
+
+Applies to all source code files in this repository, including but not limited
+to `.qmd`, `.yml`, `.css`, `.js`, `.html` (template/layout files), and any
+scripts used to build or deploy the site.
+
+Copyright (c) 2026 Andrés Mauricio (fruzciant)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Content — Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+Applies to all written content in this repository, including but not limited
+to blog posts, articles, tutorials, educational material, images created by
+the author, and any other non-code content found under the `posts/` directory
+or published at https://fruzciant.github.io/mi-blog.
+
+Copyright (c) 2026 Andrés Mauricio (fruzciant)
+
+This content is licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International License.
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format,
+  for any purpose, including commercial.
+- **Adapt** — remix, transform, and build upon the material for any purpose,
+  including commercial.
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit to the original author
+  (Andrés Mauricio, https://github.com/fruzciant), provide a link to the
+  original source, and indicate if changes were made. You may do so in any
+  reasonable manner, but not in any way that suggests the author endorses
+  you or your use.
+
+- **ShareAlike** — If you remix, transform, or build upon the material, you
+  must distribute your contributions under the same license (CC BY-SA 4.0).
+  This ensures that derived works remain freely accessible to everyone,
+  even if distributed commercially.
+
+- **No additional restrictions** — You may not apply legal terms or
+  technological measures that legally restrict others from doing anything
+  the license permits.
+
+The licensor cannot revoke these freedoms as long as you follow the license
+terms.
+
+Full license text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+---
+
+## Why this dual-license model?
+
+Knowledge should be free and accessible to everyone. The CC BY-SA 4.0 license
+on the content guarantees that anyone — individuals, institutions, or
+businesses — can use, adapt, and even sell this material, as long as they
+attribute the original author and keep the derived work under the same open
+license. This way, if you encounter a paid version of this content somewhere,
+you can always find a free version by tracing it back to its source.
+
+The MIT license on the source code allows the technical implementation to be
+reused freely without the ShareAlike obligation, which is standard practice
+for open-source educational sites.
+
+---
+
+*For questions about licensing, open an issue at
+https://github.com/fruzciant/mi-blog/issues*
